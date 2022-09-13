@@ -1,0 +1,5 @@
+D:\AlarmApp\AlarmAppV2.exe
+D:\AlarmApp\AlarmAppV2.dll
+D:\AlarmApp\AlarmAppV2.deps.json
+D:\AlarmApp\AlarmAppV2.runtimeconfig.json
+D:\AlarmApp\AlarmAppV2.pdb

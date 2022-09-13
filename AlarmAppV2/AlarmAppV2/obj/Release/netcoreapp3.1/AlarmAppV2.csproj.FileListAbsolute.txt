@@ -1,0 +1,54 @@
+C:\Users\alper\OneDrive\Masaüstü\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\bin\Release\netcoreapp3.1\AlarmAppV2.exe
+C:\Users\alper\OneDrive\Masaüstü\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\bin\Release\netcoreapp3.1\AlarmAppV2.deps.json
+C:\Users\alper\OneDrive\Masaüstü\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\bin\Release\netcoreapp3.1\AlarmAppV2.runtimeconfig.json
+C:\Users\alper\OneDrive\Masaüstü\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\bin\Release\netcoreapp3.1\AlarmAppV2.runtimeconfig.dev.json
+C:\Users\alper\OneDrive\Masaüstü\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\bin\Release\netcoreapp3.1\AlarmAppV2.dll
+C:\Users\alper\OneDrive\Masaüstü\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\bin\Release\netcoreapp3.1\AlarmAppV2.pdb
+C:\Users\alper\OneDrive\Masaüstü\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.Form1.resources
+C:\Users\alper\OneDrive\Masaüstü\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.Properties.Resources.resources
+C:\Users\alper\OneDrive\Masaüstü\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.UserController.AlarmControl.resources
+C:\Users\alper\OneDrive\Masaüstü\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.csproj.GenerateResource.cache
+C:\Users\alper\OneDrive\Masaüstü\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\OneDrive\Masaüstü\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.AssemblyInfoInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.AssemblyInfo.cs
+C:\Users\alper\OneDrive\Masaüstü\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.csproj.CoreCompileInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.dll
+C:\Users\alper\OneDrive\Masaüstü\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.pdb
+C:\Users\alper\OneDrive\Masaüstü\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.genruntimeconfig.cache
+C:\Users\alper\OneDrive\Masaüstü\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.csproj.AssemblyReference.cache
+D:\Projects\C# Projects\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\bin\Release\netcoreapp3.1\AlarmAppV2.exe
+D:\Projects\C# Projects\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\bin\Release\netcoreapp3.1\AlarmAppV2.deps.json
+D:\Projects\C# Projects\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\bin\Release\netcoreapp3.1\AlarmAppV2.runtimeconfig.json
+D:\Projects\C# Projects\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\bin\Release\netcoreapp3.1\AlarmAppV2.runtimeconfig.dev.json
+D:\Projects\C# Projects\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\bin\Release\netcoreapp3.1\AlarmAppV2.dll
+D:\Projects\C# Projects\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\bin\Release\netcoreapp3.1\AlarmAppV2.pdb
+D:\Projects\C# Projects\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.csproj.AssemblyReference.cache
+D:\Projects\C# Projects\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.Form1.resources
+D:\Projects\C# Projects\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.Properties.Resources.resources
+D:\Projects\C# Projects\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.UserController.AlarmControl.resources
+D:\Projects\C# Projects\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.csproj.GenerateResource.cache
+D:\Projects\C# Projects\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C# Projects\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.AssemblyInfoInputs.cache
+D:\Projects\C# Projects\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.AssemblyInfo.cs
+D:\Projects\C# Projects\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.dll
+D:\Projects\C# Projects\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.pdb
+D:\Projects\C# Projects\AlarmAppV2_-_Copy\AlarmAppV2 - Copy\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.genruntimeconfig.cache
+C:\Users\arda_\OneDrive\Masaüstü\AlarmAppV2\AlarmAppV2\bin\Release\netcoreapp3.1\AlarmAppV2.exe
+C:\Users\arda_\OneDrive\Masaüstü\AlarmAppV2\AlarmAppV2\bin\Release\netcoreapp3.1\AlarmAppV2.deps.json
+C:\Users\arda_\OneDrive\Masaüstü\AlarmAppV2\AlarmAppV2\bin\Release\netcoreapp3.1\AlarmAppV2.runtimeconfig.json
+C:\Users\arda_\OneDrive\Masaüstü\AlarmAppV2\AlarmAppV2\bin\Release\netcoreapp3.1\AlarmAppV2.runtimeconfig.dev.json
+C:\Users\arda_\OneDrive\Masaüstü\AlarmAppV2\AlarmAppV2\bin\Release\netcoreapp3.1\AlarmAppV2.dll
+C:\Users\arda_\OneDrive\Masaüstü\AlarmAppV2\AlarmAppV2\bin\Release\netcoreapp3.1\AlarmAppV2.pdb
+C:\Users\arda_\OneDrive\Masaüstü\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.csproj.AssemblyReference.cache
+C:\Users\arda_\OneDrive\Masaüstü\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.Form1.resources
+C:\Users\arda_\OneDrive\Masaüstü\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.Properties.Resources.resources
+C:\Users\arda_\OneDrive\Masaüstü\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.UserController.AlarmControl.resources
+C:\Users\arda_\OneDrive\Masaüstü\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.csproj.GenerateResource.cache
+C:\Users\arda_\OneDrive\Masaüstü\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda_\OneDrive\Masaüstü\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.AssemblyInfoInputs.cache
+C:\Users\arda_\OneDrive\Masaüstü\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.AssemblyInfo.cs
+C:\Users\arda_\OneDrive\Masaüstü\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.csproj.CoreCompileInputs.cache
+C:\Users\arda_\OneDrive\Masaüstü\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.dll
+C:\Users\arda_\OneDrive\Masaüstü\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.pdb
+C:\Users\arda_\OneDrive\Masaüstü\AlarmAppV2\AlarmAppV2\obj\Release\netcoreapp3.1\AlarmAppV2.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\alper\OneDrive\Masaüstü\exealarm\AlarmAppV2.exe
+C:\Users\alper\OneDrive\Masaüstü\exealarm\AlarmAppV2.dll
+C:\Users\alper\OneDrive\Masaüstü\exealarm\AlarmAppV2.deps.json
+C:\Users\alper\OneDrive\Masaüstü\exealarm\AlarmAppV2.runtimeconfig.json
+C:\Users\alper\OneDrive\Masaüstü\exealarm\AlarmAppV2.pdb
