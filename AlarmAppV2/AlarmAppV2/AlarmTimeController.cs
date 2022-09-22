@@ -24,7 +24,13 @@ namespace AlarmAppV2
             AlarmControl.OnCheckBoxInteracted += OnCheckBoxChanged;
             AlarmControl.OnDeleteButton += DeleteAlarm;
             defaultAudioPath = AppContext.BaseDirectory;
-            defaultAudioPath += @"Sounds\Crysis3SoundtrackNewYorkMemories.wav";
+
+            //this path is for app. 
+            //defaultAudioPath += @"Sounds\Crysis3SoundtrackNewYorkMemories.wav";
+
+            //this path is for test
+            defaultAudioPath += @"..\..\..\Sounds\Crysis3SoundtrackNewYorkMemories.wav";
+
             audioPath = defaultAudioPath;
             tfm = new TextFileManager();
             GetAllAlarmFromText();

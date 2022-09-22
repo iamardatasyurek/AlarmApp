@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arda_\\OneDrive\\Masaüstü\\AlarmAppV2\\AlarmAppV2\\AlarmAppV2.csproj": {}
+    "D:\\Codes\\AlarmApp\\AlarmAppV2\\AlarmAppV2\\AlarmAppV2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arda_\\OneDrive\\Masaüstü\\AlarmAppV2\\AlarmAppV2\\AlarmAppV2.csproj": {
+    "D:\\Codes\\AlarmApp\\AlarmAppV2\\AlarmAppV2\\AlarmAppV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arda_\\OneDrive\\Masaüstü\\AlarmAppV2\\AlarmAppV2\\AlarmAppV2.csproj",
+        "projectUniqueName": "D:\\Codes\\AlarmApp\\AlarmAppV2\\AlarmAppV2\\AlarmAppV2.csproj",
         "projectName": "AlarmAppV2",
-        "projectPath": "C:\\Users\\arda_\\OneDrive\\Masaüstü\\AlarmAppV2\\AlarmAppV2\\AlarmAppV2.csproj",
+        "projectPath": "D:\\Codes\\AlarmApp\\AlarmAppV2\\AlarmAppV2\\AlarmAppV2.csproj",
         "packagesPath": "C:\\Users\\arda_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arda_\\OneDrive\\Masaüstü\\AlarmAppV2\\AlarmAppV2\\obj\\",
+        "outputPath": "D:\\Codes\\AlarmApp\\AlarmAppV2\\AlarmAppV2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arda_\\AppData\\Roaming\\NuGet\\NuGet.Config",
